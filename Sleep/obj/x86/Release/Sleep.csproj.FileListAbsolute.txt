@@ -1,0 +1,4 @@
+/home/ihor/Projects/Sleep/Sleep/bin/Release/Sleep.exe
+/home/ihor/Projects/Sleep/Sleep/obj/x86/Release/Sleep.csproj.CoreCompileInputs.cache
+/home/ihor/Projects/Sleep/Sleep/obj/x86/Release/Sleep.exe
+/home/ihor/Projects/Sleep/Sleep/obj/x86/Release/Sleep.csprojResolveAssemblyReference.cache
